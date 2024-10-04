@@ -1,0 +1,122 @@
+body{
+    margin: auto;
+    width: 100%;
+   
+   }
+#logo{
+    background-color: black;
+    height: 90px;
+    
+ }
+ img{
+     height: 40px;
+  margin-left: 70px;
+  margin-top: 1.4em;
+ }
+ 
+ section{
+     background-image: url(./banner.jpg);
+     height: 400px;
+     background-size: cover;
+     box-sizing: border-box;
+     align-items: ;
+    
+ 
+ }
+     
+ #titolo{
+     color: #25a2c3;
+     font-family: "Montserrat", sans-serif;
+     font-optical-sizing: auto;
+     font-weight: bold;
+     font-style: normal;
+    font-size: xx-large;
+    text-align: center;
+    padding-top: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
+     
+ }
+ .primaparte{
+     text-align: center;
+    color: #393d41;
+    
+    font-family: "Open Sans", sans-serif;
+   font-optical-sizing: auto;
+   font-weight: weight;
+   font-style: normal;
+   font-variation-settings:
+     "wdth" 100;
+     margin-left: ;
+     padding-top: 20px;
+     margin-left: 10em;
+     margin-right: 10em;
+    
+     font-size: 1.2rem;
+     line-height: 1.65em;
+ 
+ 
+ }
+ 
+ .partiamo{
+    background-color: #f04c2f;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: bold;
+    border: 0px solid #f04c2f;
+    border-radius: 3px 3px 3px 3px;
+    font-size: larger;
+    text-size-adjust: 10px;
+    margin-left: 25em;
+    color: white;
+    margin-top: 2em;
+    padding: 0.7em;
+ }
+h2{
+    color: #25a2c3;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+   
+  
+}
+body>p{
+    text-align: center;
+   color: #393d41;
+   
+   font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+li{
+   
+    list-style-type: none;
+   
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-left: 35em;
+    
+ }
+ menu {
+    margin-left: 10em;
+    box-sizing: border-box;
+    border: 1px solid #393d41;
+    margin-left: auto;
+    
+ }
+ .notebook{
+   
+    margin: auto;
+    height: 300px;
+    border-radius: 50% 50% 50% 50%;
+ }
+
+ 
+ 
+
+ 
