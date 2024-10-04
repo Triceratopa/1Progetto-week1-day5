@@ -53,6 +53,7 @@ section{
     margin-right: 30px;
     padding: 30px;
     font-size: 1.2rem;
+    line-height: 1.65em;
 
 
 }
@@ -63,12 +64,15 @@ section{
    font-optical-sizing: auto;
    font-weight: weight;
    font-style: bold;
-   border: 5px solid #f04c2f;
-   border-radius: 10%;
-   
-   margin-left: 160px;
+   border: 0px solid #f04c2f;
+   border-radius: 3px 3px 3px 3px;
+   font-size: larger;
+   text-size-adjust: 10px;
+   margin-left: 140px;
    color: white;
+   padding: 0.7em;
 }
+
 h2{
     color: #25a2c3;
     font-family: "Montserrat", sans-serif;
@@ -101,7 +105,7 @@ font-size: 1.2rem;
 .notebook{
     box-sizing: border-box;
     border: 0px solid #393d41;
-    border-radius: 1px 1px 1px 1px;
+    border-radius:  50% 50% 50% 50%;
     width: 200px;
     height: 200px;
     margin-left: 110px;
@@ -141,8 +145,8 @@ h3{
    font-size: 1.2rem;
    font-variation-settings:
      "wdth" 100;
-     margin-top: 40px;
-     margin-bottom: 40px;
+     margin-top: 20px;
+     margin-bottom: 30px;
 line-height: 1.65em;
 }
 .nome{
@@ -182,6 +186,7 @@ background-position: center;
 
     margin-left: 25px;
     margin-top: 50px;
+    
 }
 .s1{
     box-sizing: border-box;
@@ -218,14 +223,14 @@ background-size: cover;
 background-position: center;
 
     margin-left: 25px;
-    margin-top: 50px;
+    margin-top: 30px;
 
 }
 .s2{
     box-sizing: border-box;
     border: 0.5px solid #dee1e3;
     border-radius: 0px 0px 5px 5px;
-    height: 150px;
+    height: 155px;
 width: 350px;
 margin-left: 25px;
 
@@ -242,7 +247,8 @@ margin-left: 25px;
   font-variation-settings:
     "wdth" 100;
     line-height: 1.65em;
-    font-size: 1.2rem;
+    font-size: 1.1rem;
+    
 }
 .sezione3{
     box-sizing: border-box;
@@ -255,7 +261,7 @@ background-size: cover;
 background-position: center;
 
     margin-left: 25px;
-    margin-top: 50px;
+    margin-top: 30px;
 
 }
 .s3{
