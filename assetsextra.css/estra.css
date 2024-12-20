@@ -94,7 +94,7 @@ body>p{
     "wdth" 100;
 }
 li{
-   
+   display: inline-block;
     list-style-type: none;
    
     margin-top: 30px;
@@ -103,6 +103,7 @@ li{
     
  }
  menu {
+    display: inline-block;
     margin-left: 10em;
     box-sizing: border-box;
     border: 1px solid #393d41;
@@ -110,10 +111,11 @@ li{
     
  }
  .notebook{
-   
-    margin: auto;
+   display: inline-block;
+ 
     height: 300px;
     border-radius: 50% 50% 50% 50%;
+    
  }
 
  
